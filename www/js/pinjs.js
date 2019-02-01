@@ -14,7 +14,7 @@ jQuery(document).ready(function($) {
         console.log("Error syncing preferences", err);
     });
     
-    var pin = "1234";
+    var pin = "MTIzNA==";
       
     /* For test purposes set pin to 1234 and ignore DB
     
