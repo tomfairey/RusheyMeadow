@@ -8,7 +8,7 @@
           "type": "image/png"
       }
   ],
-  "start_url": "/www/",
+  "start_url": "www",
   "scope": "/",
   "display": "fullscreen",
   "theme_color": "black",
