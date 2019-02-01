@@ -1,0 +1,17 @@
+{
+  "name": "Rushey Meadow Communication",
+  "short_name": "RM Communication",
+  "icons": [
+      {
+          "src": "512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ],
+  "start_url": "/www/",
+  "scope": "/",
+  "display": "fullscreen",
+  "theme_color": "black",
+  "background_color": "#000000",
+  "orientation": "portrait"
+}
