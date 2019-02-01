@@ -3,7 +3,7 @@
   "short_name": "RM Communication",
   "icons": [
       {
-          "src": "/www/img/512x512.png",
+          "src": "img/512x512.png",
           "sizes": "512x512",
           "type": "image/png"
       }
