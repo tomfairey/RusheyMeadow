@@ -16,10 +16,13 @@ jQuery(document).ready(function($) {
     
     var pin = "";
       
+    /* For test purposes set pin to 1234 and ignore DB
+    
     preferences.get("PIN").then(function(data) {
         pin = data.value;
     });
-      
+    
+    */  
     
       var enterCode = "";
     enterCode.toString();
